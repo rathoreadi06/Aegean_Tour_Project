@@ -1,5 +1,5 @@
 # Project Structure
-aegean-tour/
+develop/
     |-src/
     |    -optimizer.py # Core business logic
     |-tests/
@@ -9,9 +9,8 @@ aegean-tour/
     |-requirements.txt
 
 # Prerequisites
-Download Project from Git
-Check version Python 3.9 or later
-pip installed
+Take a pull of Project from Git
+Check the version Python 3.9 or later
 
 # Create and activate a Virtual Environment
 python -m venv venv
