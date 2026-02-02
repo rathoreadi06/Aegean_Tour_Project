@@ -1,5 +1,5 @@
 # Project Structure
-develop/
+Aegean_Tour_Project/
     |-src/
     |    -optimizer.py # Core business logic
     |-tests/
